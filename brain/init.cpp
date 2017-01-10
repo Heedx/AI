@@ -1,3 +1,5 @@
+using namespace std;
+
 string init(){
   
   //system(cls); //for windows
